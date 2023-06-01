@@ -21,4 +21,4 @@ ListeVoiture = {"sultan", "adder", "zentorno"}
 
 ListeCamion = {"mule", "mule2", "rebel"}
 
-ListeRetour = {"sultanrs", "bmci", "rs318"}
+ListeRetour = {"sultan", "zentorno", "adder"}
